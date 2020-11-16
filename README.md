@@ -1,5 +1,5 @@
 # Unsubscribe-YouTube-Channels
-Unsubscribe from all youtube channels in one go
+### Unsubscribe from all youtube channels in one go
 
 Steps to unsubscribe from all youtube channels:
 1. Login to your YouTube/Google account.
@@ -11,3 +11,7 @@ Steps to unsubscribe from all youtube channels:
 Blog: [Medium](https://medium.com/@ajayrajnelapudi/unsubscribe-from-all-youtube-channels-e39ee87b5640)
 
 For any issues, please open a [github issue](https://github.com/AjayRajNelapudi/Unsubscribe-YouTube-Channels/issues).
+
+## Testers, make note
+
+Once you have run [unsubscribeAll.js](unsubscribeAll.js), please run [subscribeAll.js](subscribeAll.js) as quick as possible before refreshing the webpage.
