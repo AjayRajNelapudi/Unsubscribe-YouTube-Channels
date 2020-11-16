@@ -10,4 +10,4 @@ Steps to unsubscribe from all youtube channels:
 
 Blog: [Medium](https://medium.com/@ajayrajnelapudi/unsubscribe-from-all-youtube-channels-e39ee87b5640)
 
-For any issues, please open a [github issue](https://github.com/AjayRajNelapudi/Unsubscribe-YouTube-Channels/issues)
+For any issues, please open a [github issue](https://github.com/AjayRajNelapudi/Unsubscribe-YouTube-Channels/issues).
