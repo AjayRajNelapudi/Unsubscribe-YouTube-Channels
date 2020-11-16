@@ -6,7 +6,7 @@ Steps to unsubscribe from all youtube channels:
 2. Go to https://www.youtube.com/feed/channels to list all your subscriptions.
 3. In the same window:
     Right click → Inspect Element → Console
-4. Paste code from [unsubscribe.js](unsubscribe.js) in the console and press Enter.
+4. Paste code from [unsubscribeAll.js](unsubscribeAll.js) in the console and press Enter.
 
 Blog: [Medium](https://medium.com/@ajayrajnelapudi/unsubscribe-from-all-youtube-channels-e39ee87b5640)
 
