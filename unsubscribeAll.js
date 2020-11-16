@@ -1,4 +1,4 @@
-function unsubscribeFromAllChannels() {
+function unsubscribeAll() {
 	var subscriptions = document.querySelectorAll('paper-button[aria-label^="Unsubscribe from"]');
 
 	subscriptions.forEach((subscription) => {
@@ -8,4 +8,4 @@ function unsubscribeFromAllChannels() {
 	});
 }
 
-unsubscribeFromAllChannels()
+unsubscribeAll();
